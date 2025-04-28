@@ -14,5 +14,5 @@ ____
 - /help - displays rules and instructions.
 - /letters_used - displays a list of used letters.
 - /remaining_letters - displays a list of remaining letters.
-- /сдаться - the player is considered defeated and the game asks him if he wants to finish the game completely.
+- /give_up - the player is considered defeated and the game asks him if he wants to finish the game completely.
 ____
